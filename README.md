@@ -1,1 +1,1 @@
-# android-firebase-php
+# Implementación de push notifications usando Firebase y PHP.
